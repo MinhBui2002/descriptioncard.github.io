@@ -1,9 +1,9 @@
 @media (max-width: 1023px){
     body{
-        flex-direction: column;
+        display: block;
     }
     .card{
-        margin: 30px 0;
+        margin: 30px auto;
     }
 
 }
